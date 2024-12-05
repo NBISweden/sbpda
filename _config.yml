@@ -1,8 +1,8 @@
 title: Spatial Biology Platform Data Analysis  
-remote_theme: pmarsceill/just-the-docs
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 search_enabled: true
 aux_links:
-  GitHub: https://github.com/NBISweden/Spatial_Biology_Platform_Data_Analysis_Public
+  GitHub: https://github.com/NBISweden/sbpda
 # Navigation structure
 collections:
   docs:
