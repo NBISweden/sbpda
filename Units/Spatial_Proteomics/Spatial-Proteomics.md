@@ -5,7 +5,7 @@ nav_order: 1
 parent: Home
 ---
 # Schematic workflow  
-!|[](../Spatial_Proteomics/Images/Spatial_Proteomics_Workflow.png)
+!|[](./Images/Spatial_Proteomics_Workflow.png)
 
 
 # General information  
@@ -15,15 +15,15 @@ We also offer multiplexing services using the COMET instrument from Lunaphore. T
 
 Our unit further provides access to the extensive resources and expertise of the Human Protein Atlas (www.proteinatlas.org). We support full-service immunofluorescence projects, ranging from moderate to high throughput, focused on cell lines. Leveraging a library of over 25,000 antibodies and a diverse panel of more than 30 human cell lines, we offer a unique opportunity to investigate hundreds of protein targets at the subcellular level under various cellular conditions and states.   
 Followings are schematic workflow of analysis in two techniques (Phenylcycler and COMET)  
-![]('../Images/Phenylcycler_workflow.jpg')
-![]('../Images/COMET_workflow.jpg')
+![]('./Images/Phenylcycler_workflow.jpg')
+![]('./Images/COMET_workflow.jpg')
 # Workflow and Integration  
 ## Automating the export of images for each biomarker in QuPath  
 - A script for QuPath to export and save each biomarker in an independent file.  
-- Code is available [here](../Spatial_Proteomics/Codes/Scripts/Extracting_multichannel_images.groovy) 
+- Code is available [here](./Codes/Scripts/Extracting_multichannel_images.groovy) 
 - A [video](https://youtu.be/802NyI9pbeA?si=17kpN-bibHgxVvc4) demonstrating the code
 
-<iframe width="560" height="315" src="https://youtu.be/802NyI9pbeA?si=17kpN-bibHgxVvc4" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="17kpN-bibHgxVvc4" %}
   
 ## is-PLA  
 Advanced in situ proximity ligation technologies, developed by [Navinci](https://navinci.se/technology/), are expanding the potential of fluorescence-based in situ methods, enabling the detailed visualization and quantification of proteins, their interactions, and modifications at the molecular level within their native cellular environments. These techniques allow for the detection of even low-abundance proteins without the need for overexpression or artificial modification of the cell. The resulting high-resolution images are well-suited for quantification, providing critical insights into biological mechanisms in normal and diseased tissues, cellular responses to therapeutic treatments, and changes within the microenvironment.  

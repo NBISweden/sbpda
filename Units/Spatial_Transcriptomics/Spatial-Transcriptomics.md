@@ -5,7 +5,7 @@ nav_order: 3
 parent: Home
 ---
 # Schematic workflow
-![]('../Images/Spatial_Transcriptomics_Workflow.png')
+![]('./Images/Spatial_Transcriptomics_Workflow.png')
 # General information
 Spatial Transcriptomics is an advanced method that enables the visualization and quantitative analysis of the transcriptome within individual tissue sections. By placing histological sections on glass slides embedded with arrayed oligonucleotides carrying positional barcodes, this technology generates high-quality cDNA libraries with precise spatial information for RNA sequencing. The resulting data provides a comprehensive transcriptomic landscape that integrates gene expression with tissue architecture, offering significant value for research and diagnostics.  
 
@@ -15,4 +15,4 @@ The National Genomics Infrastructure (NGI) offers Spatial Transcriptomics as a s
 
 # Workflow and Integration:  
 [nf-core/spatialvi](https://nf-co.re/spatialvi/dev/)  
-![]('../Images/spatialvi_subway.png')  
+![]('./Images/spatialvi_subway.png')  
