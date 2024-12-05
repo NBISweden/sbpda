@@ -5,7 +5,8 @@ nav_order: 1
 parent: Home
 ---
 # Schematic workflow  
-![]('../Images/Spatial_Proteomics_Workflow.png')  
+!|[](../Spatial_Proteomics/Images/Spatial_Proteomics_Workflow.png)
+
 
 # General information  
 Our unit specializes in providing highly multiplexed immunofluorescence services for tissue sections, offering up to 40 markers per sample. As one of the few labs in Europe, we utilize the advanced Phenocycler platform (formerly CODEX), which supports both fresh frozen (FF) and formalin-fixed paraffin-embedded (FFPE) tissue sections from mouse and human samples. We offer access to the complete range of pre-conjugated antibodies from Akoya Biosciences, with the full list available [here]. Additionally, we provide custom in-house antibody conjugation for essential targets specific to your project needs.    
@@ -22,7 +23,7 @@ Followings are schematic workflow of analysis in two techniques (Phenylcycler an
 - Code is available here 
 - A [video](https://www.youtube.com/watch?v=802NyI9pbeA) demonstrating the code
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=802NyI9pbeA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/802NyI9pbeA?si=17kpN-bibHgxVvc4" frameborder="0" allowfullscreen></iframe>
   
 ## is-PLA  
 Advanced in situ proximity ligation technologies, developed by [Navinci](https://navinci.se/technology/), are expanding the potential of fluorescence-based in situ methods, enabling the detailed visualization and quantification of proteins, their interactions, and modifications at the molecular level within their native cellular environments. These techniques allow for the detection of even low-abundance proteins without the need for overexpression or artificial modification of the cell. The resulting high-resolution images are well-suited for quantification, providing critical insights into biological mechanisms in normal and diseased tissues, cellular responses to therapeutic treatments, and changes within the microenvironment.  
