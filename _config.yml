@@ -1,3 +1,19 @@
 title: Spatial Biology Platform Data Analysis  
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
+aux_links:
+  GitHub: https://github.com/NBISweden/Spatial_Biology_Platform_Data_Analysis_Public
+# Navigation structure
+collections:
+  docs:
+    output: true
+footer:
+  links:
+    - title: "Supported By"
+      items:
+        - name: "<img src='/assets/images/SciLifeLab_Logotype_Green_POS.svg' alt='scilifelab' width='100'/>"
+          url: "https://www.scilifelab.se/"
+        - name: "<img src='/assets/images/KTH_Royal_Institute_of_Technology_logo.png' alt='kth' width='100'/>"
+          url: "https://www.kth.se/"
+        - name: "<img src='/assets/images/Stockholm_University.png' alt='su' width='100'/>"
+          url: "https://www.su.se"  
