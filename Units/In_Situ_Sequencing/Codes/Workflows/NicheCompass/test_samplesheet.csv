@@ -1,0 +1,5 @@
+sample,fastq_1,fastq_2,adata_path
+1264P,,,adata_and_domains_replicate_1264P.h5ad
+1264C,,,adata_and_domains_replicate_1264C.h5ad
+1310P,,,adata_and_domains_replicate_1310P.h5ad
+1310C,,,adata_and_domains_replicate_1310C.h5ad
