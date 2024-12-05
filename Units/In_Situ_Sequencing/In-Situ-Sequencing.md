@@ -1,6 +1,6 @@
 ---
 layout: default
-title: _In Situ_ Sequencing
+title: "<em>In Situ</em> Sequencing"
 nav_order: 2
 parent: Home
 ---
