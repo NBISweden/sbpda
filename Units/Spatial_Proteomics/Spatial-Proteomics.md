@@ -20,8 +20,8 @@ Followings are schematic workflow of analysis in two techniques (Phenylcycler an
 # Workflow and Integration  
 ## Automating the export of images for each biomarker in QuPath  
 - A script for QuPath to export and save each biomarker in an independent file.  
-- Code is available here 
-- A [video](https://www.youtube.com/watch?v=802NyI9pbeA) demonstrating the code
+- Code is available [here](../Spatial_Proteomics/Codes/Scripts/Extracting_multichannel_images.groovy) 
+- A [video](https://youtu.be/802NyI9pbeA?si=17kpN-bibHgxVvc4) demonstrating the code
 
 <iframe width="560" height="315" src="https://youtu.be/802NyI9pbeA?si=17kpN-bibHgxVvc4" frameborder="0" allowfullscreen></iframe>
   
