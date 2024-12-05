@@ -1,19 +1,42 @@
-title: Spatial Biology Platform Data Analysis  
+# Site settings
+title: Spatial Biology Platform Data Analysis
+description: A centralized hub for workflows, data analysis tips, and tools for spatial omics data.
+baseurl: "" # Leave blank if deploying to the root domain
+url: "" # Add the URL of your GitHub Pages site here
+
+# Theme
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
-aux_links:
-  GitHub: https://github.com/NBISweden/sbpda
+
 # Navigation structure
+# You can control your navigation bar here
 collections:
-  docs:
-    output: true
-footer:
-  links:
-    - title: "Supported By"
-      items:
-        - name: "<img src='/assets/images/SciLifeLab_Logotype_Green_POS.svg' alt='scilifelab' width='100'/>"
-          url: "https://www.scilifelab.se/"
-        - name: "<img src='/assets/images/KTH_Royal_Institute_of_Technology_logo.png' alt='kth' width='100'/>"
-          url: "https://www.kth.se/"
-        - name: "<img src='/assets/images/Stockholm_University.png' alt='su' width='100'/>"
-          url: "https://www.su.se"  
+  nav:
+    - title: "Home"
+      url: /
+    - title: "Units"
+      children:
+        - title: "In Situ Sequencing"
+          url: /Units/In_Situ_Sequencing/In-Situ-Sequencing/
+        - title: "Spatial Mass Spectrometry"
+          url: /Units/Spatial_Mass_Spectrometry/Spatial-Mass-Spectrometry/
+        - title: "Spatial Proteomics"
+          url: /Units/Spatial_Proteomics/Spatial-Proteomics/
+        - title: "Spatial Transcriptomics"
+          url: /Units/Spatial_Transcriptomics/Spatial-Transcriptomics/
+    - title: "Tools"
+      url: /Tools/
+    - title: "Contact"
+      url: /contact/
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Footer (optional)
+footer_content: >-
+  <p>Supported by:
+    <a href="https://www.scilifelab.se"><img src="/assets/images/SciLifeLab_Logotype_Green_POS.svg" alt="SciLifeLab" width="100"/></a>
+    <a href="https://www.su.se"><img src="/assets/images/Stockholm_University.png" alt="Stockholm University" width="100"/></a>
+    <a href="https://www.k.se"><img src="/assets/images/KTH_Royal_Institute_of_Technology_logo.png" alt="KTH Royal Institute of Technology" width="100"/></a>
+  </p>
