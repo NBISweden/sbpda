@@ -1,3 +1,10 @@
+---
+layout: default
+title: Spatial Mass Spectrometry
+nav_order: 2
+parent: Home
+---
+
 # Schematic workflow  
 ![]('../Images/Spatial_Mass_Spec.jpg')  
 

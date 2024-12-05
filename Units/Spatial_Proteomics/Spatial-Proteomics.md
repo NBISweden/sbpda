@@ -1,3 +1,9 @@
+---
+layout: default
+title: Spatial Proteomics
+nav_order: 1
+parent: Home
+---
 # Schematic workflow  
 ![]('../Images/Spatial_Proteomics_Workflow.png')  
 

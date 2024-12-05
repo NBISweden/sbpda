@@ -1,3 +1,9 @@
+---
+layout: default
+title: Spatial Transcriptomics 
+nav_order: 3
+parent: Home
+---
 # Schematic workflow
 ![]('../Images/Spatial_Transcriptomics_Workflow.png')
 # General information
