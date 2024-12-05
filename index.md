@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 ---
-![]('../Doc/Images/Spatial_Omics_SciLifeLab_image.png')
+![](Doc/Images/Spatial_Omics_SciLifeLab_image.png)
 # Welcome 
 Welcome to the Spatial Biology Platform Data Analysis (SBPDA), your centralized hub for cutting-edge workflows and data analysis recommendations tailored for spatial omics data. This platform is designed to guide researchers in navigating the complexities of spatially resolved technologies and to serve as a repository for best practices, protocols, and insights across a range of powerful methods.
 
