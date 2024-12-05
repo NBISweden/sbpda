@@ -1,5 +1,5 @@
 title: Spatial Biology Platform Data Analysis  
-theme: minimal-mistakes-jekyll
+remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 aux_links:
   GitHub: https://github.com/NBISweden/sbpda
