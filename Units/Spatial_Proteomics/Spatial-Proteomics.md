@@ -5,7 +5,7 @@ nav_order: 1
 parent: Home
 ---
 # Schematic workflow  
-![](/Units/Spatial_Proteomics/Images/Spatial_Proteomics_Workflow.png)
+![](./Images/Spatial_Proteomics_Workflow.png)
 
 
 # General information  
