@@ -1,3 +1,9 @@
+---
+layout: default
+title: _In Situ_ Sequencing
+nav_order: 2
+parent: Home
+---
 # Schematic workflow  
 ![]('../Doc/In_Situ_Sequencing/ISS_workflow.png')  
 
@@ -22,4 +28,7 @@ ISS enables simultaneous localization and quantification of over 100 transcripts
 ![]('../Doc/Images/ISS_pipeline.png'):  
 
 ## Niche Identification  
-[NicheCompass]('Codes/Workflows/NicheCompass/): This workflow is a nextflow pipeline which runs [NicheCompass](https://nichecompass.readthedocs.io/en/latest/index.html) which is a package for end-to-end analysis of spatial multi-omics data, including spatial atlas building, niche identification & characterization, cell-cell communication inference and spatial reference mapping.  
+[NicheCompass]('Codes/Workflows/NicheCompass/): This workflow, developed by NBIS, is a nextflow pipeline which runs [NicheCompass](https://nichecompass.readthedocs.io/en/latest/index.html) which is a package for end-to-end analysis of spatial multi-omics data, including spatial atlas building, niche identification & characterization, cell-cell communication inference and spatial reference mapping.  
+
+## PLP probe design  
+In [this portal](https://r35a6f033.serve.scilifelab.se/), you can design your probes of interest for _in situ_ seuqencing, develeoped by NBIS.  
