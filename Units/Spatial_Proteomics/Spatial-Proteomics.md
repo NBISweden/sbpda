@@ -16,8 +16,10 @@ We also offer multiplexing services using the COMET instrument from Lunaphore. T
 Our unit further provides access to the extensive resources and expertise of the Human Protein Atlas (www.proteinatlas.org). We support full-service immunofluorescence projects, ranging from moderate to high throughput, focused on cell lines. Leveraging a library of over 25,000 antibodies and a diverse panel of more than 30 human cell lines, we offer a unique opportunity to investigate hundreds of protein targets at the subcellular level under various cellular conditions and states.   
 Followings are schematic workflow of analysis in two techniques (Phenylcycler and COMET)  
 
+PhenylCycler  
 ![](./Images/Phenylcycler_workflow.jpg)  
 
+COMET  
 ![](./Images/COMET_workflow.jpg)  
 
 # Workflow and Integration  
