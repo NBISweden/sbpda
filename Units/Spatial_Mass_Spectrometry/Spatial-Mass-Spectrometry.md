@@ -6,7 +6,7 @@ parent: Home
 ---
 
 # Schematic workflow  
-![](./Images/Spatial_Mass_Spec.jpg)
+![](/Units/Spatial_Mass_Spectrometry/Images/Spatial_Mass_Spec.jpg)
 
 
 # General information  

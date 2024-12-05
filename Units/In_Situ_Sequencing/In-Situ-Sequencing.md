@@ -5,7 +5,7 @@ nav_order: 2
 parent: Home
 ---
 # Schematic workflow  
-![](./Images/ISS_workflow.png)
+![](/Units/In_Situ_Sequencing/Images/ISS_workflow.png)
 # General information  
 The In Situ Sequencing (ISS) unit offers spatially resolved gene expression analysis for targeted panels of genes at subcellular resolution. Developed in the lab of [Mats Nilsson](http://www.scilifelab.se/researchers/mats-nilsson/), a pioneer in generating in situ gene expression and mutation profiles (Ke R et al., 2013, Nature Methods), ISS provides a cutting-edge approach to spatial transcriptomics.  
 
