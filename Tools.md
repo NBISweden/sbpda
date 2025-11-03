@@ -20,3 +20,7 @@ Explore the tools and pipelines available for spatial biology research.
 ### Spatial Transcriptomics  
 - [nf-core/spatialvi](https://nf-co.re/spatialvi/dev/)  
 ![]('./Images/spatialvi_subway.png')  nf-core pipeline to analys Visium data.  
+
+### General
+- [TissUUmaps](https://tissuumaps.github.io/): A browser-based tool for fast visualization and exploration of millions of data points overlaying a tissue sample.
+- [ScilifeLab Serve](https://serve.scilifelab.se/): A platform offering machine learning model serving, app hosting, web-based integrated development environments, and other tools to life science researchers.  
