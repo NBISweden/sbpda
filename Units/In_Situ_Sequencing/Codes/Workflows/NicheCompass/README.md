@@ -2,7 +2,7 @@
 
 ### Overview
 This workflow runs NicheCompass which is a graph deep learning method designed to analyze spatial omics data by characterizing cell niches through cellular communication principles. It integrates knowledge of inter- and intracellular interaction pathways to learn an interpretable latent space of cells across multiple tissue samples, facilitating the construction and querying of spatial reference atlases.
-For more details check [NicheCompass page]  (https://nichecompass.readthedocs.io/en/latest/index.html).  
+For more details check [NicheCompass page](https://nichecompass.readthedocs.io/en/latest/index.html).  
 
 #### Step-by-step description of your NicheCompass workflow:
 
