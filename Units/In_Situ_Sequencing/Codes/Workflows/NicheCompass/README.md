@@ -4,6 +4,9 @@
 This workflow runs NicheCompass which is a graph deep learning method designed to analyze spatial omics data by characterizing cell niches through cellular communication principles. It integrates knowledge of inter- and intracellular interaction pathways to learn an interpretable latent space of cells across multiple tissue samples, facilitating the construction and querying of spatial reference atlases.
 For more details check [NicheCompass page](https://nichecompass.readthedocs.io/en/latest/index.html).  
 
+**Note: the nichecompass conda env is installed/used by nextflow using environment.yaml file. There is no need to install nichecompass but if you for development or improving or adapting the workflow you should install the conda env. The installation information is providfed in [nichecompass page](https://nichecompass.readthedocs.io/en/latest/installation.html)**  
+
+
 #### Step-by-step description of your NicheCompass workflow:
 
 ##### CHECK_SAMPLESHEET  
@@ -92,7 +95,7 @@ nextflow run main.nf --input samplesheet.csv --outdir results
 
 ### Installation   
 To run the workflow you need to install:  
-- [Nextflow]  (https://www.nextflow.io/docs/latest/install.html)
-- [NicheCompass]  (https://nichecompass.readthedocs.io/en/latest/installation.html)
+- [Nextflow](https://www.nextflow.io/docs/latest/install.html)
+- [NicheCompass](https://nichecompass.readthedocs.io/en/latest/installation.html)
 
  
