@@ -10,7 +10,7 @@ Explore the tools and pipelines available for spatial biology research.
 ## Available Tools
 ### _in situ_ sequencing  
 - [PLP probe design](https://ra427c910.serve.scilifelab.se/) : A portal to design probes for _in situ_ sequencing method.  
-- [NicheCompass Nextflow Pipeline](https://github.com/Moldia/PD_striatal_xenium/blob/main/nf-core/README.md): A powerful pipeline for niche analysis.  
+- [NicheCompass Nextflow Pipeline](https://github.com/Moldia/PD_striatal_xenium/blob/main/nf-core/README.md): A powerful pipeline for niche analysis (download the workflow from [here](https://github.com/Moldia/PD_striatal_xenium/tree/main/nf-core)).  
 
 ### Spatial Proteomics  
 - [Signal to noise ratio app](https://snrapp.serve.scilifelab.se/)   
